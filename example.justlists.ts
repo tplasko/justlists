@@ -120,6 +120,14 @@
             "decimals":18,
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+        },
+        {
+            "symbol":"JFI",
+            "address":"TN7zQd2oCCguSQykZ437tZzLEaGJ7EGyha",
+            "chainId":1,
+            "decimals":18,
+            "name":"JFI",
+            "logoURI":"https://coin.top/production/logo/TN7zQd2oCCguSQykZ437tZzLEaGJ7EGyha.png"
         }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
